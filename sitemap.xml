@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://dev-centr.github.io/centrmark/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dev-centr.github.io/packagehub/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dev-centr.github.io/stack-advisor/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dev-centr.github.io/equivalence-engine/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dev-centr.github.io/equivalence-engine/docs/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dev-centr.github.io/code-lens/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>

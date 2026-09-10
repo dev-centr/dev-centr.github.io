@@ -1,6 +1,10 @@
-# Allow-list: ignore everything by default.
+# Allow-list repository content.
 *
 !.gitignore
 !README.md
+!CHANGELOG.md
+!changelog-details/
+!changelog-details/**
 !index.html
 !robots.txt
+!sitemap.xml

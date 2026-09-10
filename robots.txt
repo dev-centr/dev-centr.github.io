@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://dev-centr.github.io/sitemap.xml
 Sitemap: https://dev-centr.github.io/centrmark/sitemap.xml
 Sitemap: https://dev-centr.github.io/packagehub/sitemap.xml
 Sitemap: https://dev-centr.github.io/stack-advisor/sitemap.xml
