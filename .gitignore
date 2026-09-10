@@ -1,0 +1,6 @@
+# Allow-list: ignore everything by default.
+*
+!.gitignore
+!README.md
+!index.html
+!robots.txt
