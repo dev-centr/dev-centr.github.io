@@ -8,3 +8,8 @@
 !index.html
 !robots.txt
 !sitemap.xml
+!/.github/
+!/.github/workflows/
+!/.github/workflows/encoding-guard.yml
+!/.editorconfig
+!/.gitattributes
